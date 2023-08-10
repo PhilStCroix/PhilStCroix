@@ -53,7 +53,7 @@
       "id": 1,
       "count": "5",
       "src": "./img/avatar-image.png",
-      "description": "Skilled front-end developer specializing in creating captivating user experiences through proficient utilization of HTML, CSS, and JavaScript, with a keen eye for design, interactivity, and cross-browser compatibility.",
+      "description": "Phil is amazing! He is a true professional.",
       "author_name": "Frank Corcoran",
       "author_designation": "Full Stack Developer"
     },
@@ -61,7 +61,7 @@
       "id": 2,
       "count": "5",
       "src": "./img/avatar-image-1.png",
-      "description": "Skilled front-end developer specializing in creating captivating user experiences through proficient utilization of HTML, CSS, and JavaScript, with a keen eye for design, interactivity, and cross-browser compatibility.",
+      "description": "Phil Rocks! He is a true professional.",
       "author_name": "Samantha Hynes",
       "author_designation": "Full Stack Developer"
     },
@@ -69,9 +69,9 @@
       "id": 3,
       "count": "5",
       "src": "./img/avatar-image-2.png",
-      "description": "Skilled front-end developer specializing in creating captivating user experiences through proficient utilization of HTML, CSS, and JavaScript, with a keen eye for design, interactivity, and cross-browser compatibility.",
-      "author_name": "Jack Hayes",
-      "author_designation": "Web Developer"
+      "description": "Yeah, whatever.",
+      "author_name": "Chester Field",
+      "author_designation": "Couch Potato"
     }
   ]
 }
