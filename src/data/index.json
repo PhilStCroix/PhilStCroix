@@ -21,8 +21,57 @@
     {
       "id": 4,
       "src": "./img/feather-pen-1.png",
-      "title": "Webflow Development",
-      "description": "Webflow developer proficient in leveraging the platform's visual design capabilities to build responsive and dynamic websites, combining design finesse with code-free development for efficient and stunning online presences."
+      "title": "React Development",
+      "description": "Seasoned React developer adept at building interactive and dynamic user interfaces, harnessing the power of component-based architecture and state management to create fast, modular, and engaging web applications."
+    }
+  ],
+  "portfolio": [
+    {
+      "id": 1,
+      "src": "./img/placeholder-image.png",
+      "title": "Ahuse",
+      "description": "Skilled front-end developer specializing in creating captivating user experiences through proficient utilization of HTML, CSS, and JavaScript, with a keen eye for design, interactivity, and cross-browser compatibility.",
+      "link": "View on Github"
+    },
+    {
+      "id": 2,
+      "src": "./img/placeholder-image-1.png",
+      "title": "App Dashboard",
+      "description": "Experienced back-end developer adept at building the foundational structure of web applications, utilizing server-side languages and databases to ensure smooth functionality, data management, and secure user interactions.",
+      "link": "View on Github"
+    },
+    {
+      "id": 3,
+      "src": "./img/placeholder-image-2.png",
+      "title": "Easy Rent",
+      "description": "Creative UI/UX designer passionate about crafting intuitive and visually appealing digital experiences, merging user-centric design principles with innovative interfaces to enhance usability and drive user satisfaction.",
+      "link": "View on Github"
+    }
+  ],
+  "testimonials": [
+    {
+      "id": 1,
+      "count": "5",
+      "src": "./img/avatar-image.png",
+      "description": "Skilled front-end developer specializing in creating captivating user experiences through proficient utilization of HTML, CSS, and JavaScript, with a keen eye for design, interactivity, and cross-browser compatibility.",
+      "author_name": "Frank Corcoran",
+      "author_designation": "Full Stack Developer"
+    },
+    {
+      "id": 2,
+      "count": "5",
+      "src": "./img/avatar-image-1.png",
+      "description": "Skilled front-end developer specializing in creating captivating user experiences through proficient utilization of HTML, CSS, and JavaScript, with a keen eye for design, interactivity, and cross-browser compatibility.",
+      "author_name": "Samantha Hynes",
+      "author_designation": "Full Stack Developer"
+    },
+    {
+      "id": 3,
+      "count": "5",
+      "src": "./img/avatar-image-2.png",
+      "description": "Skilled front-end developer specializing in creating captivating user experiences through proficient utilization of HTML, CSS, and JavaScript, with a keen eye for design, interactivity, and cross-browser compatibility.",
+      "author_name": "Jack Hayes",
+      "author_designation": "Web Developer"
     }
   ]
 }
