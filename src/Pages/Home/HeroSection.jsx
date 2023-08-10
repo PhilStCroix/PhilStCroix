@@ -1,3 +1,4 @@
+import { Link } from "react-scroll";
 const HeroSection = () => {
   return (
     <section id="HeroSection" className="hero--section">
@@ -14,7 +15,9 @@ const HeroSection = () => {
             Elevating User Experiences Through Innovative Software Solutions
           </p>
         </div>
-        <button className="btn btn-primary">Get In Touch</button>
+        <Link to="Contact" smooth={true} duration={500}>
+          <button className="btn btn-primary">Get In Touch</button>
+        </Link>
       </div>
       <div className="hero--section--img">
         <img

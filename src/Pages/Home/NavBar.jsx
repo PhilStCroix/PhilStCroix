@@ -1,5 +1,5 @@
 import { useState, useEffect } from "react";
-import { Link } from "react-router-dom";
+import { Link } from "react-scroll";
 
 function NavBar() {
   const [navActive, setNavActive] = useState(false);
@@ -53,12 +53,12 @@ function NavBar() {
           <li>
             <Link
               onClick={closeMenu}
-              activeclass="navbar--active-content"
-              //   spy={true}
-              //   smooth={true}
+              activeClass="navbar--active-content"
+              spy={true}
+              smooth={true}
               offset={-70}
               duration={500}
-              to="heroSection"
+              to="HeroSection"
               className="navbar--content"
             >
               Home
@@ -67,9 +67,9 @@ function NavBar() {
           <li>
             <Link
               onClick={closeMenu}
-              activeclass="navbar--active-content"
-              //   spy={true}
-              //   smooth={true}
+              activeClass="navbar--active-content"
+              spy={true}
+              smooth={true}
               offset={-70}
               duration={500}
               to="MyPortfolio"
@@ -81,9 +81,9 @@ function NavBar() {
           <li>
             <Link
               onClick={closeMenu}
-              activeclass="navbar--active-content"
-              //   spy={true}
-              //   smooth={true}
+              activeClass="navbar--active-content"
+              spy={true}
+              smooth={true}
               offset={-70}
               duration={500}
               to="AboutMe"
@@ -95,9 +95,9 @@ function NavBar() {
           <li>
             <Link
               onClick={closeMenu}
-              activeclass="navbar--active-content"
-              //   spy={true}
-              //   smooth={true}
+              activeClass="navbar--active-content"
+              spy={true}
+              smooth={true}
               offset={-70}
               duration={500}
               to="Testimonials"
@@ -110,9 +110,9 @@ function NavBar() {
       </div>
       <Link
         onClick={closeMenu}
-        activeclass="navbar--active-content"
-        // spy={true}
-        // smooth={true}
+        activeClass="navbar--active-content"
+        spy={true}
+        smooth={true}
         offset={-70}
         duration={500}
         to="Contact"
