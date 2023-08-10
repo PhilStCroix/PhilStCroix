@@ -1,0 +1,28 @@
+{
+  "skills": [
+    {
+      "id": 1,
+      "src": "./img/product-chain-1.png",
+      "title": "Front-End",
+      "description": "Skilled front-end developer specializing in creating captivating user experiences through proficient utilization of HTML, CSS, and JavaScript, with a keen eye for design, interactivity, and cross-browser compatibility."
+    },
+    {
+      "id": 2,
+      "src": "./img/tag-1.png",
+      "title": "Back-End",
+      "description": "Experienced back-end developer adept at building the foundational structure of web applications, utilizing server-side languages and databases to ensure smooth functionality, data management, and secure user interactions."
+    },
+    {
+      "id": 3,
+      "src": "./img/feather-pen-2.png",
+      "title": "UI & UX Design",
+      "description": "Creative UI/UX designer passionate about crafting intuitive and visually appealing digital experiences, merging user-centric design principles with innovative interfaces to enhance usability and drive user satisfaction."
+    },
+    {
+      "id": 4,
+      "src": "./img/feather-pen-1.png",
+      "title": "Webflow Development",
+      "description": "Webflow developer proficient in leveraging the platform's visual design capabilities to build responsive and dynamic websites, combining design finesse with code-free development for efficient and stunning online presences."
+    }
+  ]
+}
