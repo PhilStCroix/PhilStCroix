@@ -29,22 +29,22 @@
     {
       "id": 1,
       "src": "./img/placeholder-image.png",
-      "title": "Ahuse",
-      "description": "Skilled front-end developer specializing in creating captivating user experiences through proficient utilization of HTML, CSS, and JavaScript, with a keen eye for design, interactivity, and cross-browser compatibility.",
+      "title": "React JS Portfolio",
+      "description": "My portfolio react application is my first solo react app that i created to help me understand the use of routes and links in react.",
       "link": "View on Github"
     },
     {
       "id": 2,
       "src": "./img/placeholder-image-1.png",
-      "title": "App Dashboard",
-      "description": "Experienced back-end developer adept at building the foundational structure of web applications, utilizing server-side languages and databases to ensure smooth functionality, data management, and secure user interactions.",
+      "title": "Py Fighter",
+      "description": "This is my first solo project that i created to help me understand the use of classes in python better.  It is an unfinished project that i am still working on.",
       "link": "View on Github"
     },
     {
       "id": 3,
       "src": "./img/placeholder-image-2.png",
-      "title": "Easy Rent",
-      "description": "Creative UI/UX designer passionate about crafting intuitive and visually appealing digital experiences, merging user-centric design principles with innovative interfaces to enhance usability and drive user satisfaction.",
+      "title": "Python Projects",
+      "description": "In this repository you will find my Python Projects that i created during my studies, which include blackjack and hangman games as well as class work.",
       "link": "View on Github"
     }
   ],

@@ -11,7 +11,7 @@ const MyPortfolio = () => {
         <div>
           <a
             className="btn btn-github"
-            href="https://github.com/PhilStCroix/portfolio.git"
+            href="https://github.com/PhilStCroix?tab=repositories"
             target="_blank"
           >
             <svg
